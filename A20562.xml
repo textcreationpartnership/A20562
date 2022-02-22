@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at S. Maries Church in Oxford, the 12. of Iuly. 1612 Being the Act Sunday. By Thomas Anyan, Fellow of Corpus Christi Colledge.</title>
+            <author>Anyan, Thomas, 1580 or 81-1632.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20562</idno>
+            <idno type="STC">STC 697</idno>
+            <idno type="STC">ESTC S115375</idno>
+            <idno type="EEBO-CITATION">99850594</idno>
+            <idno type="PROQUEST">99850594</idno>
+            <idno type="VID">15805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 907:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at S. Maries Church in Oxford, the 12. of Iuly. 1612 Being the Act Sunday. By Thomas Anyan, Fellow of Corpus Christi Colledge.</title>
+                  <author>Anyan, Thomas, 1580 or 81-1632.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Thomas Snodham] for H. F[eatherstone],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15805:1"/>
+            <pb facs="tcp:15805:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED at S. <hi>Maries</hi> Church in Oxford, the 12. of <hi>Iuly.</hi> 1612. <hi>Being the Act Sunday.</hi>
+            </p>
+            <p>BY THOMAS ANYAN, Fellow of <hi>Corpus Chriſti Colledge.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. F.</hi> 1612.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:15805:2"/>
+            <pb facs="tcp:15805:2"/>
+            <head>TO THE RIGHT HONOVRABLE THE Lady <hi>Alice,</hi> Counteſſe Dowager of DARBY, the vertuous VVife of the right <hi>Ho<g ref="char:EOLhyphen"/>nourable,</hi> THOMAS, <hi>Lord Elleſmere, L. high Chancellor</hi> of <hi>England,</hi> and Chancellor of the Vniuerſitie of <hi>Oxford, my ſingular and eſpeciall</hi> good Lord.</head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hoſe many encouragements which beyond the meaſure of my deſerts it hath pleaſed your gracious fa<g ref="char:EOLhyphen"/>uour, from the ouerture of your loue, to ſhew towards mee, may iuſtly claime at my hands ſome thankefull acknowledgement thereof. <hi>Sapientis eſt</hi>
+               <note place="margin">Lib. de bene.</note> (ſaid <hi>Seneca) benè debere beneficium, &amp; benè ſoluere, interdum autem ſolutio eſt ipſa confeſ<g ref="char:EOLhyphen"/>ſio,</hi> So fals it out with me (right Honourable) who hauing receiued more then I can deſerue, and wanting power to requite, <hi>Nam tibi quod ſoluat non habet arca</hi> Jouis: my heartieſt prayers muſt be your beſt payment, and no other requitall, then a thankfull ac<g ref="char:EOLhyphen"/>knowledgement,
+<pb facs="tcp:15805:3"/> which if I ſhould forget, I were wor<g ref="char:EOLhyphen"/>thy (as <hi>Alexander</hi> once ſerued one) to be branded in<note place="margin">Plutar.</note> the fore-head with <hi>Ingratus hoſpes.</hi>
+            </p>
+            <p>Accept therefore, I beſeech you, of the offer of theſe my ſlender and worthleſſe endeauours, ſheltred vn<g ref="char:EOLhyphen"/>der the patronage of your worthy name; which if you will pleaſe to grace with the viewing and reading ouer, you ſhall adde life to theſe dead lines, depriued of the breath of a liuely voyce, wherewith ſometime they ſpake, and put now bloud &amp; ſpirit into the veines of this dead carkaſſe, and animate it a new with the breath of your Honourable fauour, wherewith you haue animated mee in all my proceedings, and giuen life to my languiſhing, and faint hopes, which other<g ref="char:EOLhyphen"/>wiſe would not haue beene, or beene expired. The re<g ref="char:EOLhyphen"/>membrance of which your honourable fauours ſhall draw life from my laſt breath, and ſhall be a motiue daily to ſtirre me vp to ſacrifice to you, and for you, the calues of my lips, and hourely to ſend vp the in<g ref="char:EOLhyphen"/>cenſe of my prayers to almighty God to ſend downe vpon your deere Lord (my R. and H. <hi>Maſter)</hi> your ſelfe, and both your happily-ioyned Iſſues, what proſpe<g ref="char:EOLhyphen"/>ritie in this life can be deſired, and what happineſſe in the other can be conceiued.</p>
+            <closer>
+               <signed>Your Honors euer at command in all dutie, THO. ANYAN.</signed> 
+               <dateline>Yorkehouſe. <date>Aug. 29.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:15805:3"/>
+            <head>A SERMON Preached at S<hi rend="sup">t</hi>. <hi>Maries,</hi> in Oxford.</head>
+            <epigraph>
+               <bibl>PSAL. 1. 3.</bibl>
+               <q>He ſhall be like a tree planted by the riuers of waters, that bringeth forth his fruit in his ſeaſon.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which <note n="a" place="margin">Weſtmonaſte<g ref="char:EOLhyphen"/>rienſis.</note> Stories report of a ſtrange childe, vnited in heart and breaſt, but diuided in the vpper parts; hauing one face alwayes laughing, and the other alwayes weeping, may ſerue as a fit embleme and liue<g ref="char:EOLhyphen"/>ly image of this ſacred hymne: which being vnited together in the whole, but diuided in the parts, ſeemes as it were to haue two faces; wher<g ref="char:EOLhyphen"/>of the one is alwayes lightſome with the rayes of glad<g ref="char:EOLhyphen"/>neſſe, the other alwayes clouded with ſorrow and euer<g ref="char:EOLhyphen"/>laſting horror. And as there are onely two places and ends of our iourney, whereunto wee muſt all repaire, after our long pilgrimage here vpon this bale of earth, <hi>heauen</hi> and <hi>hell,</hi> ſo likewiſe are there onely two ſorts
+<pb n="2" facs="tcp:15805:4"/> and kindes of people which muſt trauaile in the ſame, the <hi>reprobate</hi> and <hi>regenerate;</hi> the habits and condition of both which are here deſcribed: of the one, in the three firſt; of the other, in the two latter; and of both together, in the laſt verſe of this Pſalme.</p>
+            <p>An Epitome of which two ſorts of people was here<g ref="char:EOLhyphen"/>tofore repreſented vnto vs, in <hi>Abel</hi> and <hi>Caine, Sarah</hi> and <hi>Hagar, Iſaac</hi> and <hi>Iſmael, Iacob</hi> and <hi>Eſau;</hi> and are<note place="margin">Lib. 2. de Ciuit. c. 18.</note> by great S. <hi>Auſten</hi> compared vnto two Cities, which two loues built, the extreame loue of God, and the extreame loue of our ſelues: The loue of our ſelues, euen to the contempt of God, built the earthly and reprobate citie: the loue of God, euen to the contempt of our ſelues, built the heauenly citie: the one aſcri<g ref="char:EOLhyphen"/>beth all glory vnto God, the other challengeth all Gods glory vnto her ſelfe. The one (ſaith the ſame Fa<g ref="char:EOLhyphen"/>ther) is truely <hi>glorioſa,</hi> the other is onely <hi>gloriatrix:</hi> of the one it is ſaid, <hi>O how glorious are the titles, which are ſaid of thee thou citie of God!</hi> But of the other it may be ſaid; O how glorious are the titles which thou ſayeſt of thy ſelfe, O citie of the world!</p>
+            <p>But hearken, I beſeech you, with reuerence, what the holy Prophet ſaith of them both in this Pſalme: the one (ſaith he) is as chaffe which the winde driues away, but the other is bleſſed, <hi>and ſhall be like a tree planted by the riuers of waters, which ſhall bring forth his fruit in due ſeaſon.</hi> In which deſcription of the pro<g ref="char:EOLhyphen"/>ſperitie of the godly, there are two parts: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a narration, and an exornation; the narra<g ref="char:EOLhyphen"/>tion in the two former verſes, the exornation in the third which I now haue read vnto you. Where, mee thinkes, not onely the perſon here deſcribed, in my
+<pb n="3" facs="tcp:15805:4"/> Text, but my Text it ſelfe, may fitly be reſembled vn<g ref="char:EOLhyphen"/>to a Tree: the branches of my Text are like the bran<g ref="char:EOLhyphen"/>ches of trees at this time of the yeere, full laden with faire and goodly fruit.</p>
+            <p>The chiefe materiall of which the body and bran<g ref="char:EOLhyphen"/>ches of this tree are compounded, is a <hi>Propoſition,</hi> which containeth in it a <hi>Deſcription,</hi> and a <hi>Compari<g ref="char:EOLhyphen"/>ſon,</hi> or rather, a comparatiue deſcription of the life of a regenerate man, vnto the life of a flouriſhing and fruitfull tree.</p>
+            <p>The parts of this propoſition are in number foure: firſt the <hi>Subiect;</hi> ſecondly, the <hi>Copula;</hi> thirdly, the <hi>At<g ref="char:EOLhyphen"/>tribute;</hi> and fourthly, the <hi>Adiuncts of this attribute.</hi> The ſubiect of this Propoſition, and of all theſe at<g ref="char:EOLhyphen"/>tributes here in my text, is the Pronoune of the third perſon, <hi>hee,</hi> by which may be vnderſtood and implied three perſons; <hi>viz.</hi> Chriſt, the Church, and the righ<g ref="char:EOLhyphen"/>teous man. The Copula is the Verbe ſubſtantiue, <hi>erit:</hi> for ſo reade the ſeuentie, <hi>Arius Montanus, Vatablus,</hi> and the Latine vulgar, onely <hi>Iunius, est,</hi> the matter being of no conſequence<g ref="char:punc">▪</g> the Hebritians vſing theſe two tenſes promiſcuouſly one for the other. The attribute is a ſimilitude or reſemblance, <hi>like a tree.</hi> The adiuncts of this attribute are theſe, <hi>planted,</hi> by <hi>the riuers of wa<g ref="char:EOLhyphen"/>ter,</hi> which <hi>ſhall bring forth his fruit in due ſeaſon.</hi> All which, being ioyntly annexed vnto the principall attri<g ref="char:EOLhyphen"/>bute, <hi>like a tree,</hi> doe make it perfect, and abſolute, and are together with their principall attribute, to be re<g ref="char:EOLhyphen"/>ferred to the ſubiect (<hi>he,</hi>) who as he is <hi>a man,</hi> is likened to a tree; as he is a man <hi>regenerate,</hi> is likened to <hi>a tree planted;</hi> as hee is a man regenerate by the waters of Baptiſme, and the fountaine of Gods graces, is likened
+<pb n="4" facs="tcp:15805:5"/> to a tree planted by the riuers of waters: his actions are compared to the effects of trees; his working, to bringing forth; his workes to the fruit; the time of his working and labour in his vocation, to the due ſeaſon of the yeere.</p>
+            <p>
+               <hi>He ſhall be like, &amp;c.</hi>] Marke, I beſeech you, the ap<g ref="char:EOLhyphen"/>parant <hi>Climax,</hi> or gradation in this text, of euery at<g ref="char:EOLhyphen"/>tribute one aboue another, each adding a grace, or de<g ref="char:EOLhyphen"/>gree of perfection to the other. <hi>He,</hi> the righteous man may be like vnto a tree, and yet not like vnto a tree planted: planted he may be, and yet not by the riuers of waters: by the riuers of waters he may be planted, and yet not bring forth: bring forth hee may with the Fig-tree in the Goſpell, leafes, and yet not bring forth fruit: fruit he may bring forth, and yet not in ſeaſon, much leſſe in due ſeaſon. But the righteous man ſhall be like vnto a tree, and not onely to a tree, but to a tree planted, and planted by riuers of water, which ſhall bring forth not onely leafes and bloſſomes, but fruit, and that <hi>fructum ſuum,</hi> his fruit; and that not imma<g ref="char:EOLhyphen"/>turely, but <hi>tempore ſuo,</hi> in due ſeaſon. Here then you ſee (Right Honourable, reuerend, and to me all-belo<g ref="char:EOLhyphen"/>ued) what amplitude, &amp; varietie of matter each branch of this tree affords: I cannot ſpeake of any part (being bounded within the limit of an houre) as I would; therefore I will ſpeake a little of all, taking the words in order as they lye.</p>
+            <p>
+               <hi>He,</hi> that is, the iuſt man, whoſe whole life is nothing elſe but a continuall meditation of the law of God: <hi>he,</hi> who alwayes ſpeakes as he thinkes, does as he ſpeakes, ſpeakes, thinkes, and does as God commands: whoſe perſon if I ſhould exactly deſcribe and delineate, I muſt
+<pb n="5" facs="tcp:15805:5"/> raiſe out of this one hiue, a whole ſwarme of perſons, and take a generall view and ſuruey of all the perſons in the world, and deſcribe what it is to be excellent and admirable in all kinde of vertues: for ſo this per<g ref="char:EOLhyphen"/>ſon <hi>he</hi> is in my text.</p>
+            <p>
+               <hi>He,</hi> that is, the iuſt and righteous man, <hi>&amp; qui iu<g ref="char:EOLhyphen"/>ſtum dixerit, omnia dixerit:</hi> he that ſaith a man is iuſt, hath ſaid all that may be ſaid to the glory and praiſe of a righteous man. The paucitie of which perſons is ſo great, and the raritie ſo ſingular, as that it will not make a plurall; the number of the vniuſt, or wicked, is indefinite, or rather, like chaffe, infinite; but <hi>he,</hi> the iuſt man in my text, is ſingled out alone. The citie of So<g ref="char:EOLhyphen"/>dome, though rich and populous, had but one <hi>Lot:</hi> all the region of Huz, but one <hi>Iob: Abram</hi> had many children by <hi>Cethura,</hi> but one by <hi>Sarah:</hi> the off-ſpring of <hi>Iſhmael</hi> was more fruitfull then the progenie of <hi>Iſ<g ref="char:EOLhyphen"/>rael:</hi> there were many <hi>Athenians,</hi> but few <hi>Phocians:</hi> many <hi>Thebanes,</hi> but few <hi>Epaminondaes:</hi> many <hi>Romanes,</hi> but few <hi>Reguli: Catilinam</hi> (ſaith the Poet)<note place="margin">Iuuenal.</note>
+            </p>
+            <lg>
+               <l>Quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in populo videas, quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſub are,</l>
+               <l>At nec <hi>Brutus</hi> erit, <hi>Bruti</hi> nec auunculus vnus.</l>
+            </lg>
+            <p>
+               <hi>Foelix</hi> (ſaith <hi>Auſten) enim tanquam Phoenix, vix ſex<g ref="char:EOLhyphen"/>centeſsimo anno naſcitur;</hi> the iuſt man is as rare, and as hard to be found here on earth, as the Phoenix bird. But contrary the wicked are ſo many in number, that among the Latines, <hi>malum &amp; multum,</hi> and among the<note place="margin">Nonius.</note> Greekes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, were vſed as Synonimaes.</p>
+            <p>
+               <hi>Shall be.</hi>] Man through the ouer-weening appetite of his greedy will, deſirous to picke of the Apples of E<g ref="char:EOLhyphen"/>den, and to eate of the forbidden fruit, hath beene ſo grieuouſly wounded in the beſt part of his vnderſtan<g ref="char:EOLhyphen"/>ding
+<pb n="6" facs="tcp:15805:6"/> ſoule, by Gods iuſtly-reuenging hand, that with the crow in the Poet, of whom it was ſaid, ſhe could not ſay, ſhe was well; but ſlightly ſaid, ſhe ſhall be well;</p>
+            <q>Est benè non potuit dicere, dixit erit.<note place="margin">Martial.</note>
+            </q>
+            <p>So neither can man in this life ſay, he is well, or that he is as a tree planted by the riuers of water, but his hope is, and all that he can ſay, is;</p>
+            <q>Eſt benè non potuit dicere, dicit erit.</q>
+            <p>The iuſt perſon hath no permanent or abiding citie in this life, but expects one that <hi>ſhall be,</hi> and <hi>ſhall come.</hi> In this life hee ſhall finde troubles, but in the other peace; in this life ſorrow, but in the other ioy; in this life ſhame and rebuke, in the other endleſſe glory with renowne. What a garland doth Saint <hi>Paul</hi> plat of his owne croſſes and tribulations, 2 <hi>Cor. 11? In ſtripes aboue meaſure, in priſon more plenteouſly, in perill of death, in perils by land, in perill by waters:</hi> theſe were the ri<g ref="char:EOLhyphen"/>uers of waters, by which he was planted. There is no one page of Scripture almoſt, not breathing out ſighes of the Church, groaning vnder the heauie burden of her afflictions: no one leafe almoſt not blurred with the teares of the Saints, mourning in the anguiſh of their ſoule, and pouring forth their groanes in theſe and the like dolefull Elegies. <hi>We are as men appointed to death, we are a gazing ſtocke, and ſpectacle of miſery to the world.</hi> 2 Cor. 4. 9. <hi>For thy ſake we are killed all the day long, and are accounted as ſheepe to the ſlaughter. Rom.</hi> 8. 36. The child of God therefore, and his church, is not alwayes <hi>viſibly</hi> in the eye of the world, like a greene Oliue tree, a flouriſhing vine, or a tree planted by the riuers of water, but rather like a Lilly among thornes, like a Doue, whoſe habitation is in the rocke,
+<pb n="7" facs="tcp:15805:6"/> as a woman in trauaile with a Dragon purſuing her. <hi>Reu.</hi> 12. Or as the buſh wherein God appeared vnto <hi>Moſes,</hi> which alwayes burnes with the flames of perſe<g ref="char:EOLhyphen"/>cution, but is neuer conſumed. Wherefore erroneous is that doctrine of the Diuines of Rome, who crowne the righteous and Church militant here on earth, with a garland of temporall felicitie, making worldly pompe to be the true note and badge how to diſcerne the godly from the wicked; true Chriſtians from er<g ref="char:EOLhyphen"/>roneous haeretikes, the Church of Chriſt from the Sy<g ref="char:EOLhyphen"/>nagogue of Sathan. And as the Painter of Thebes painted <hi>Venus,</hi> a Goddeſſe, after the likeneſſe of <hi>Phryne,</hi> a Romane Curtezan, ſo doth <hi>Bellarmine</hi> effigiate and<note place="margin">Lib. 4. c. 18. de Eccl. milit.</note> paint out the Church of Chriſt, after the image and likeneſſe of the Whore of Babilon, deſcribing her to<note place="margin">Apoc. 17. 4.</note> be alwayes arrayed in Purple and Scarlet, adorned with gold and precious ſtones of temporall bliſſe.</p>
+            <p>But who ſo ſhall looke backe vpon the records of former times, ſhall finde the Church of Chriſt, from her firſt infancie, to haue beene clothed in ſack-cloath, and the garments of aduerſitie, when the profeſt enemies thereof were clad in purple, and did freely enioy the choyſeſt pleaſure of this worlds delight. In <hi>Noahs</hi> time wee may ſee her floating in the waterie world; after that, groaning vnder the Egyptians tyran<g ref="char:EOLhyphen"/>nie; then, a pilgrime in the Deſert; and in Canaan neuer free from his malicious and inſeſt enemies; the Philiſtim, the Amonite, the Madianite; and laſt of all, captiued by the Perſian and Babylonian. Since Chriſts time, we may ſee her lye ſweltring in her owne bloud, and for long three hundred yeeres cruelly op<g ref="char:EOLhyphen"/>preſſed by bloudy Tyrants.</p>
+            <pb n="8" facs="tcp:15805:7"/>
+            <p>But to omit former times, and to come to this preſent age; how many thouſands of Chriſtians haue ſacrificed their deereſt bloud in their Sauiours cauſe, gainſt that proud <hi>Mahumetan Rabſhecai,</hi> who being poſſeſt of the Eaſterne parts, ſpits defiance to the Chriſtian world, pouring forth blaſphemous threats againſt all the profeſſors of the Name of Chriſt? If worldly felicitie be a note of the Church, then there it is, and they all falſe profeſſors who haue beene ſubdued by his conquering ſword. But the Spouſe of Chriſt is in this life, like a pilgrime, diuorced from her beloued, her weapons are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not carnall, but ſpirituall; ſhe is like a ſhippe continu<g ref="char:EOLhyphen"/>ally toſt at ſea, though neuer ouer-whelmed; ſhee is like an houſe built vpon a rocke by the ſea ſhore, which is obnoxious to many a tempeſtuous flaw. In this life ſhe is militant, in the other triumphant; here ſhe hath <hi>praelium,</hi> there <hi>praemium;</hi> here her labour, there her reward; here her ſeed-time, there her har<g ref="char:EOLhyphen"/>ueſt; and therefore this iuſt perſon in my text, is not ſaid that he is, but <hi>he ſhall be like a tree.</hi>
+            </p>
+            <p>
+               <hi>Like a tree.</hi>] Man is compared to a tree, each part of him hauing ſome correſpondencie and reſem<g ref="char:EOLhyphen"/>blance with the parts of a tree. The beauty of his youth is likened to the bloſſomes of trees, which ey<g ref="char:EOLhyphen"/>ther in a ſhort time of themſelues, or with the Sunnes heate, drie vp and wither away. His haire which co<g ref="char:EOLhyphen"/>uereth his head, and adornes his body, is reſembled to the leafes, which couer the tops and vpper parts of the trees. His breath to the ſweet odor which trees of themſelues ſend forth in the ſpring. His radicall moi<g ref="char:EOLhyphen"/>ſture, oyle and balſamum (whereon the naturall heate
+<pb n="9" facs="tcp:15805:7"/> feedes and is maintained) may be likened to the oyle and ſap of trees, which they of themſelues ſweate forth. His diſciplination and nurture, to the planta<g ref="char:EOLhyphen"/>tion and grafture of trees. His bloud which diſperſeth it ſelfe by the veynes, as branches, through all the body, may be compared to thoſe riuers of waters, which being carryed by brookes ouer all the earth, and through the pores of the earth, doe ſecretly in<g ref="char:EOLhyphen"/>corporate themſelues into the rootes of thoſe trees, and by their moiſture feed and maintaine the flouriſh<g ref="char:EOLhyphen"/>ing eſtate of euery tree. <hi>Plato</hi> in generall ſaith that euery man is a tree turned topſe-turuy, making his head as it were, the roote, his members the branches; to which I will adde, that his words are the leafes, his workes the fruit, Gods graces the riuers of water, by which euery tree is, or ought to be, planted. From this reſemblance of man vnto a Tree, many notions doe offer themſelues to our conſideration, each of them attended with his ſeuerall inſtruction.</p>
+            <p n="1">1 As a Tree which bringeth forth no good fruit, ſo a man which bringeth forth no good workes in the branches of his faith, is good for nothing, but to be hewen downe, and caſt into the fire.</p>
+            <p n="2">2 As a tree, if it be not well planted, the fruit ther<g ref="char:EOLhyphen"/>of groweth ſowre, wilde, and diſtaſtfull; ſo a man, if he be not well nurtured and diſciplind.</p>
+            <p n="3">3 As a tree in the Spring, ſo a man in the ſpring of his youth abounds with many luxuriant ſtems, which by carefull education, may eaſily be pruned and lopt off.</p>
+            <p n="4">4 As a tree, though his firſt off-ſpring be from the earth, and his roote in the earth, erecteth his body
+<pb n="10" facs="tcp:15805:8"/> and branches vpward toward heauen; ſo man, though his roote and off-ſpring be from the earth, duſt, and aſhes, yet ought he to erect the branches of his ſoule and affection toward heauen and heauenly things, in a diuine contemplation of his creator.</p>
+            <p>But although man in many things be like vnto a tree, yet in this one thing muſt he be moſt vnlike. Trees ordinarily bring forth fruit but once in the yeere, but the whole life of man muſt be nothing elſe but a continuall harueſt, bearing fruit at all times, as well in the Winter of his aduerſitie, as in the Summer of his proſperitie; as well in the Spring of his youth, as in the Autumne of his age; he muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, hee muſt ſtill haue leafes, and theſe leafes muſt not wither nor fade, but with them hee muſt heale the nations of the earth; the outward barke and rine of his conuerſation muſt ſerue as a rule to direct others: and as they report of the figge-tree, ſo the fruit of this tree, muſt ripen as faſt as it is gathered:</p>
+            <q>
+               <l>Vno auulſo non deficit alter<note place="margin">Virg. Aeneid. 6.</note>
+               </l>
+               <l>Aureus &amp; ſimili frondeſcit virga metallo.</l>
+            </q>
+            <p>That golden tree in <hi>Virgil</hi> enamoled round about, and beſet with all the richeſt pearles of the Poets re<g ref="char:EOLhyphen"/>fined wit and inuention, <q>Aureus &amp; folijs &amp; lento vimine ramus.</q>
+               <note place="margin">Ibidem.</note> was but Braſſe and Lead in compariſon of this tree, planted like the tree of life, in the midſt of the Gar<g ref="char:EOLhyphen"/>den of my Text. I haue not beene learned in the lan<g ref="char:EOLhyphen"/>guage of the eloquent, nor hath my tongue beene dipt in the ouer-flowing waters of abundant paſſion, yet were it ſo with me, Eloquence her ſelfe might here be ſilent: for, what ornament of wit? what dowry of
+<pb n="11" facs="tcp:15805:8"/> tongue with all the riches of his language, can ſuffici<g ref="char:EOLhyphen"/>ently adorne and ſet forth the glorious and flouriſhing beauty of this tree? whoſe outward barke and rine ſur<g ref="char:EOLhyphen"/>paſſeth the Diamond in beautie; his buds, the Eme<g ref="char:EOLhyphen"/>rods; his bloſſomes, Pearles; his gumme, the Ruby and Chriſtall; his fruit, the golden Apples of Heſpe<g ref="char:EOLhyphen"/>rides; his leafe, true leafe-gold, which neyther withe<g ref="char:EOLhyphen"/>reth nor fadeth. This is that Tree whereon groweth thoſe rich Onyx-ſtones, which carry in them the names of the children of Iſrael, engrauen and emboſt in gold. This is that Tree, which S. <hi>Iohn</hi> ſaw, <hi>Reuel.</hi> 22. planted by the water of life, cleare as Chriſtall, pro<g ref="char:EOLhyphen"/>ceeding out of the Throne of GOD, and from the Lambe, which brought forth her fruit in due ſeaſon, and bare twelue manner of fruits, and gaue fruit euery moneth; yea, as good fruit as the golden Apples of the tree of life. But leaſt this iuſt man ſhould deeme that this fruit of his good workes is by nature, not by grace; by merit, not by mercy; from his proper gene<g ref="char:EOLhyphen"/>ration, and not from his ſpirituall regeneration in Chriſt; by vertue of the ſap and moiſture which natu<g ref="char:EOLhyphen"/>rally is in the roote, and not by the riuers of waters, which ſupernaturally water the garden of his ſoule, it is added in my Text, that the iuſt ſhall be as a Tree <hi>planted.</hi>
+            </p>
+            <p>
+               <hi>Planted.</hi>] Planted by that heauenly husbandman; by whom whatſoeuer is not planted ſhall be rooted out and caſt into the fire. This word <hi>planted,</hi> which the ſeauentie render, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is by <hi>Aquila</hi> rendred <hi>tranſplanted;</hi> which doth agree either to the perſon of Chriſt, tranſplanted from heauen to earth, or to eue<g ref="char:EOLhyphen"/>ry iuſt and righteous perſon, who is tranſlated, and as
+<pb n="12" facs="tcp:15805:9"/> a tree tranſplanted from the workes of the old man, to the workes of the new; from the ſeruitude of the Law, to the libertie of grace; from a land whoſe riuers ſtreame with bloud, to a land that flowes with milke and honey. That tree which was vnhappily ſprung in <hi>Adam,</hi> ſhall be as happily grafted and tranſplanted in Chriſt: that tree which was fruitleſſe in his owne na<g ref="char:EOLhyphen"/>ture, ſhall become fruitfull by grace: that tree which would haue rotted for want of naturall moyſture, ſhall flouriſh againe, and receiue iuyce into his veynes from the waters of life, by which hee is planted. Wee know that the whole tree of our nature, roote and branches, fruit and leafes, were all blaſted by the breath of Gods firſt malediction, and the ground whereon we grew; nay the ground of mans heart was curſt to bring forth of it ſelfe, nothing but bryars and thornes; his wiſedome was fooliſhneſſe, his ſtrength weakneſſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his beſt thoughts were defiled,<note place="margin">1 Cor. 2.</note> his vnderſtanding was darkened; nay, it was darkneſſe <hi>in abſtracto, Epheſ.</hi> 5. So that with <hi>Glaucoma</hi> in the Poet, <hi>Ne id quidem intelligit quod intelligit, vel quod</hi>
+               <note place="margin">
+                  <hi>Plautus</hi> in mi<g ref="char:EOLhyphen"/>lite glorioſo.</note> 
+               <hi>non intelligit,</hi> hee neyther vnderſtands what hee vn<g ref="char:EOLhyphen"/>derſtands, nor vnderſtands not, that hee vnderſtands not. <hi>O miſeras animas quae pereunt et neſciunt ſe perire,</hi>
+               <note place="margin">
+                  <hi>Auſten</hi> de ciui<g ref="char:EOLhyphen"/>tate Dei.</note> 
+               <hi>&amp; ideo pereunt quia neſciunt ſe neſcire:</hi> like the blinde woman in <hi>Seneca,</hi> who becauſe ſhee neuer ſaw any thing, could not be perſwaded that ſhee was blinde, but that the houſe was darke. This was the eſtate of man in his corrupted grouth; but ſince his new plan<g ref="char:EOLhyphen"/>tation by grace, ſince his roote in <hi>Adam</hi> hath beene taken vp and tranſplanted in Chriſt, God hath pro<g ref="char:EOLhyphen"/>miſed that the ground ſhall be changed by the raine
+<pb n="13" facs="tcp:15805:9"/> of righteouſneſſe, and dewe of grace watering his roote, and that at the comming of the Meſſias,<note place="margin">Eſ. 55. 3.</note> 
+               <hi>pro Virgultis aſſurget Abies,</hi> for Thornes ſhall grow Firre-trees, and for nettles, that is, (as I conſtrue it) our ſtinging affections, ſhall grow Mirrhe-trees, ſwea<g ref="char:EOLhyphen"/>ting forth the ſoft and ſweet oyle of grace and loue.</p>
+            <p>Vnfruitfull plants, and vnſauory trees are ſuffered and let alone to grow in thoſe places where firſt they ſprang; but ſweet roſes, fruitfull vines, and good trees are taken vp and tranſplanted.</p>
+            <p>Almightie God, who in the Goſpell is compared to a husbandman, hath tranſplanted vs from the king<g ref="char:EOLhyphen"/>dome of Sathan, to the kingdome of the Sonne of God; from wilde Oliues to be fruitfull Vines in Chriſt Ieſus. And as the Prophet <hi>Eliah</hi> reſtored the childe of<note place="margin">1 King. 17.</note> the widdow from death to life; ſo our bleſſed Saui<g ref="char:EOLhyphen"/>our recouered and reuiued mankinde like a tree dead in the root, and rotten in all the branches thereof. The Prophet entering into the chamber where the childe lay dead, gat vpon the bed, ſtretched his body all ouer the childes body, put his mouth to its mouth, his hands to its hands, his feete to its feete; ſo Chriſt, <hi>Elias</hi>-like, ſtretched himſelfe vpon the Croſſe, as a greene tree vpon the dead tree of our nature, and laid as it were his roote to our roote, his bran<g ref="char:EOLhyphen"/>ches to our branches, his leafes to our leafes, his fruit to our fruit, and by this new plantation of vs in<g ref="char:EOLhyphen"/>to himſelfe, he hath infuſed his ſpirit into vs, reuiued vs, and made vs of dead trees, trees of life, partakers of his diuine nature, members of his glorious body, and heyres of his immortall glory.</p>
+            <p>For vs men, and for our plantation, the Sonne of
+<pb n="14" facs="tcp:15805:10"/> God deſcended from the higheſt heauens, and ſuffe<g ref="char:EOLhyphen"/>red his God-head to be clad with the corruptible roabes of humane frailtie, and in our nature endured the wrath of God, did merit by it eternall redemption, infuſed into it his ſpirituall graces, and aduanced it aboue the higheſt rankes of the Angels in heauen.</p>
+            <p>At the firſt, man was ſet as a Roſe in the Garden of Gods Paradiſe, that hee might proue a ſweet odor of life vnto life: but when hee turned from a Roſe to be a Thiſtle, and began to pricke his Ma<g ref="char:EOLhyphen"/>ker, then was hee tranſplanted from a ſmall Garden, to a large mannor, and with an happy exchange of eſtate, was brought from his firſt freedome of nature of <hi>poſſe non peccare,</hi> to a better libertie of Grace <hi>non poſſe peccare,</hi> not to ſinne at all; for, whoſoeuer is borne of God, and grafted into Chriſt, ſinneth not, nor can hee ſinne, 1 <hi>Iohn</hi> 3. 9. For although the beſt of men, through the infirmitie of their corrupted na<g ref="char:EOLhyphen"/>ture, doe oftentimes commit thoſe things which in the ſight of the world are foule, and worthily enor<g ref="char:EOLhyphen"/>mous, yet becauſe the inward man doth ſooner or latter checke and comptrole them, they are not pro<g ref="char:EOLhyphen"/>perly ſaid to commit them, becauſe they doe not wholy and fully aſſent vnto them. That celeſtiall ſap which euery branch doth receiue from his roote, Chriſt, doth ſo quicken and reuiue the regenerate man, that although in outward appearance, and in his owne conceit to, he ſeeme to wither and be decayed, yet the ſpirit of Adoption, which ingendreth Faith, doth ſo inhabite and poſſeſſe his ſoule, that eyther <hi>to<g ref="char:EOLhyphen"/>tally</hi> or <hi>finally</hi> hee cannot periſh, but remaines to<g ref="char:EOLhyphen"/>ward GOD, like the Philoſophers demonſtrator,
+<pb n="15" facs="tcp:15805:10"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, firme and immoueable.<note place="margin">Parraeus in 7. ca. ad Rom.</note>
+            </p>
+            <p>And although he hath ofttimes many ſtragling mo<g ref="char:EOLhyphen"/>tions, inordinate deſires, deſpairing cogitations, main<g ref="char:EOLhyphen"/>taine diuers errours in Religion, commit foule ſinnes, ſuch as <hi>Noah, Dauid, Salomon,</hi> and <hi>Peter</hi> did; nay, ſuch ſinnes as leaue no place for ſaluation, without an actuall and eſpeciall repentance, yet from infidelitie, extreame deſpaire, obduration in ſinne, and the like, God will preſerue the righteous as the apple of his eye. Hee may ſuffer him to fall, but not to fall away, he may <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he may <hi>cadere</hi> not <hi>defi<g ref="char:EOLhyphen"/>cere,</hi>
+               <note place="margin">Zanchius.</note> hee may <hi>peccare</hi> not <hi>peccatum facere,</hi> hee may ſin, but not <hi>worke</hi> iniquitie: <hi>labi poteſt, prolabi non poteſt: iuſtus enim ſi ceciderit non collidetur,</hi> the righteous<note place="margin">Pſal. 37. 23.</note> man, though he fall, hee ſhall not be caſt off; the rea<g ref="char:EOLhyphen"/>ſon is giuen in the words following, <hi>quia manum ſup<g ref="char:EOLhyphen"/>point Dominus,</hi> becauſe the Lord ſupports him with his hand. The wicked like the Rauen, they goe out of the Arke and returne no more; but the righteous, though they fall, and ſeeme to goe out of the Church, yet they returne againe with an Oliue branch of true repentance in their mouthes: the reprobate fall like old <hi>Ely,</hi> who fell downe and broke his necke; but the regenerate, though they fall with the young man <hi>Eu<g ref="char:EOLhyphen"/>tychus</hi>
+               <note place="margin">Acts 20.</note> from the third loft, yet being taken vp, are by Gods holy ſpirit reuiued againe.</p>
+            <p>This Spirit <hi>Rom.</hi> 8. is tearmed our life; and <hi>hee that</hi>
+               <note place="margin">1 Io. 5. 12.</note> 
+               <hi>hath the Sonne</hi> (ſaith S. <hi>Iohn) hath life, and he that hath not the Sonne, hath not life.</hi> Whence (mee thinkes) may be inferred, that if hee which once is planted in Chriſt hath the Sonne, may afterwards ceaſe to haue the Sonne, though it be but for a moment, he ceaſeth
+<pb n="16" facs="tcp:15805:11"/> for that moment to haue life. But the life of them who haue the Sonne of God, is euerlaſting, and in the world to come, 1 <hi>Iohn</hi> 5. 13. And as Chriſt being rai<g ref="char:EOLhyphen"/>ſed from the dead, dyeth no more, death hath no more power ouer him, ſo the iuſtified man, being planted by Faith in Chriſt, doth as neceſſarily from<note place="margin">R. Hooker.</note> that time forward alwayes liue, as Chriſt by whom he hath life liues alwayes. For if Chriſt which is the foundation of our ſpirituall life, may leaue that man<g ref="char:EOLhyphen"/>ſion which once he poſſeſt, and flit away, what ſhall be<g ref="char:EOLhyphen"/>come of his promiſe, <hi>I am with you to the worlds end?</hi> And if the ſeed of God which containes Chriſt, may be firſt conceiued, and then abortiue-like caſt out, how doth S. <hi>Peter</hi> terme it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the im<g ref="char:EOLhyphen"/>mortall<note place="margin">1 Pet. 1. 23.</note> ſeede? how doth S. <hi>Iohn</hi> affirme that it abides?<note place="margin">1 Io. 3. 9.</note> If the ſpirit which is giuen to cheriſh and preſerue the ſeede of life in tender plants, may be giuen and taken away, how is it by S. <hi>Paul</hi> termed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Eph. 1. 14.</note> the earneſt penny of our redemption? how doth it continue with vs for euer? If therefore the man who is once iuſt by Faith ſhall liue by Faith, and liue for euer; it followeth that he which is once planted and inſerted a liuing branch of that true Vine Chriſt, ſhall neuer againe from his body be diſſerted.</p>
+            <p>Man (I confeſſe) is apt and ready to reuolt from God, but God is not ſo ready to forſake man: our mindes are changeable, but Gods decree is immuta<g ref="char:EOLhyphen"/>ble: whom God hath iuſtified Chriſt aſſures them it is his Fathers pleaſure to giue them a Kingdome. Not<g ref="char:EOLhyphen"/>withſtanding<note place="margin">Col. 1. 2. 3.</note> it ſhall be no otherwiſe giuen them, then if they continue grounded and eſtabliſhed in the Faith, and be not moued away from the hope of the
+<pb n="17" facs="tcp:15805:11"/> Goſpell. Chriſt therefore when he ſpake of his ſheepe effectually called, and truely gathered into his folde, ſaid; <hi>I giue vnto them eternall life, and they ſhall neuer</hi>
+               <note place="margin">Io. 10. 28.</note> 
+               <hi>periſh, neyther ſhall any plucke them out of my hands.</hi> In promiſing to ſaue them, hee promiſed, no doubt, to preſerue them in that without which there can be no ſaluation, as alſo from that whereby it is irreco<g ref="char:EOLhyphen"/>uerably loſt. For without his eſpeciall grace, which muſt reſtraine vs from the one, and retaine vs in the other, wee are no more able of our ſelues to ſtand, then the carkaſſe of that noble captaine, which when a Lacedaemonian had often ſet vp in vaine, the car<g ref="char:EOLhyphen"/>kaſſe<note place="margin">Plut.</note> ſtill falling downe, he afterward confeſt, that it was not the body and legs of a man which made a man to ſtand, but there was ſomewhat vnſeene in the body, which made all theſe excellent motions and va<g ref="char:EOLhyphen"/>rieties, and therefore ſaid, <hi>Aliquid intus eſſe oportet:</hi> His grace it is within which like the fierie Chariot of <hi>Elias</hi> muſt draw both vs and our thoughts to heauen: For, wee are by nature like warme water, which vn<g ref="char:EOLhyphen"/>leſſe it be ſtill heated, will coole of it ſelfe; or like va<g ref="char:EOLhyphen"/>pors, which riſe no longer then the heat of the Sunne draweth them, which Sunne of righteouſneſſe if hee ſubſtract his beames, yea, but a little, wee are ſoone frozen in the dregs of our impietie. God therefore vn<g ref="char:EOLhyphen"/>willing to ſee his trees wither for want of moyſture, his deareſt children to pine away for want of the food of their ſoules, hee hath planted euery tree which is in the Paradiſe of the Church, by him who is the foun<g ref="char:EOLhyphen"/>taine of Gardens, the ſpring of Lebanon, <hi>by riuers of</hi>
+               <note place="margin">Cant. 4.</note> 
+               <hi>water.</hi>
+            </p>
+            <pb n="18" facs="tcp:15805:12"/>
+            <p>
+               <hi>By riuers of waters.</hi>] Obſerue I beſeech you once more, the attributes of this tree: hee is a tree, not a bramble or thorne; planted by regeneration, not ſuf<g ref="char:EOLhyphen"/>fered in his naturall generation; and planted by ri<g ref="char:EOLhyphen"/>uers, not ſuffered to remaine in the quagmire and filth of his owne inuentions; and planted not in any mountanous region, or eminent place, but in the humble valley, not by the dangerous ſhoares of the ſwelling Ocean, but <hi>ſecus decurſus aquarum,</hi> by the banke-ſide of riuers of water.</p>
+            <p>The bodies of men are the Temples of the holy Ghoſt, their ſoule the <hi>ſanctum ſanctorum;</hi> the Graces of God the riuers which runne through this Sanctua<g ref="char:EOLhyphen"/>rie; they are as it were, the Lauer before the Temple, to waſh them, whoſe fountaine is God himſelfe, who ſhall clenſe them from all their ſinnes: and then how can they be without water, who are planted by thoſe riuers which ſpring from the fountaine of life? how can they be without light, whoſe light is the Sunne of righteouſneſſe? how can they be without plentie of all things, in whom dwelleth he that is the fulneſſe of all things? though the tempeſt ſhake, the winde blow, the heate ſcorch, yet ſhall they not wither, be<g ref="char:EOLhyphen"/>cauſe they are planted by the riuers of Gods ſpirituall graces. By theſe riuers of waters was <hi>Noah</hi> planted, when he was preſerued from the deluge of waters: by theſe riuers was <hi>Lot</hi> planted, when hee was preſerued from the flames of fire<g ref="char:punc">▪</g> by theſe riuers was <hi>Moſes</hi> planted, when hee was preſerued in the riuer from that great maſſacre of infants.</p>
+            <p>
+               <hi>Ariſtotle</hi> and <hi>Pliny</hi> both report, that tender vines,
+<pb n="19" facs="tcp:15805:12"/> and other fruitfull trees proſper not being planted<note place="margin">
+                  <hi>Plin.</hi> l. 21. &amp; <hi>Ariſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> nigh the ſea or any ſalt water: this world is a ſea ſwelling with the ſurges of pride, blew and wan with the colour of enuy, ſalt and fretting with the ſharpe humour of malice; if then wee deſire to be tender Vines in Gods Vineyard, trees of life in his Paradiſe, wee muſt be planted farre off and remote from the ſalt ſea of this world, and be planted as trees by the water, which ſpread out their rootes by the riuers, and ſhall not feele when the heate commeth, but her leafe ſhall be greene, and ſhall not care for the yeere of drought, neyther ſhall ceaſe from yeelding fruit. <hi>Ier.</hi> 17. 8.</p>
+            <p>That which Stories haue auerred of the roote of<note place="margin">
+                  <hi>Plin.</hi> l. 32. &amp; <hi>Ouid.</hi> in Meta.</note> the Corall, which ſo long as it is vnder the water is ſoft, and flexible, but ſo ſoone as it is taken out of the water is as hard as any ſtone; may truely be verified of the roote of euery tree in the Eden of Gods Church; which ſo long as it is planted by the riuers of water which flow from the Sanctuarie of God, is milde and gentle, the fruit mellow and pleaſant to the taſte, but when it is taken vp, and ſeparate from theſe riuers of water, it is hardened as hard as Ada<g ref="char:EOLhyphen"/>mant, and the fruit thereof is ſowre and diſtaſtfull. <hi>Ia<g ref="char:EOLhyphen"/>cob</hi> was like vnto this tree here in my text, who was planted by the riuers of water, and therefore <hi>Balaam</hi>
+               <note place="margin">Num. 24. 5.</note> cryeth out; <hi>Numb. 24. How goodly are thy tents, O Ia<g ref="char:EOLhyphen"/>cob, and thy habitations, O Iſrael! as the valleys are they ſtretched forth, as Gardens by the riuer ſide, as Aloe trees, which the Lord hath planted, and the Cedars be<g ref="char:EOLhyphen"/>ſides the riuers of waters.</hi>
+            </p>
+            <pb n="20" facs="tcp:15805:13"/>
+            <p>Theſe riuers of waters are as a well of comfort for forlorne <hi>Hagar,</hi> and all other pilgrimes to refreſh their wearied and fainting ſoules: for although the iuſt and godly doe many times in the bitternes of their ſoule, cry out with <hi>Dauid, abiſſus abiſſum inuocat, fluctus tui</hi>
+               <note place="margin">Pſal. 42. 7.</note> 
+               <hi>ſupra me tranſierunt;</hi> one deepe (of ſorrow) calleth another deepe, by the noyſe of the water ſpouts, thy waues and flouds are gone ouer me; though the wa<g ref="char:EOLhyphen"/>ters of affliction in this life rage, and be impetuous, ſo that the very mountaines of their faith ſhake at the ſurges of the ſame, yet ſhall they at length be planted as flouriſhing trees by thoſe riuers of water, whoſe chriſtall ſtreames make glad the citie of God. From theſe waters I will fetch ſome, and euery Chri<g ref="char:EOLhyphen"/>ſtian may more, water of comfort, to refreſh his af<g ref="char:EOLhyphen"/>flicted ſoule, with this or the like meditation. That al<g ref="char:EOLhyphen"/>though in this life he be like a vine ſpoiled, bleeding with compunction of griefe, and as a tree planted by riuers of ſalt waters, euen riuers of teares; yet theſe riuers of briniſh teares ſhall be as the mor<g ref="char:EOLhyphen"/>ning dewe diſtilling from heauen, which ſhall nou<g ref="char:EOLhyphen"/>riſh the fruit of our workes, moyſten the root of our Faith, and make our ſoules <hi>bring forth fruit in due ſeaſon.</hi>
+            </p>
+            <p>
+               <hi>Which bringeth forth fruit.</hi>] When man was firſt endowed with a ſoueraigne command ouer all the creatures here on earth, it was enioynd him by his maker, not onely to fill the earth with men, but (as <hi>Origen</hi> writeth) <hi>replete carnem vestram quae terra est bonis operibus,</hi> bring forth fruit in the earth of your fleſh.</p>
+            <pb n="21" facs="tcp:15805:13"/>
+            <p>Which fruit is two-fold, <hi>internall</hi> and <hi>externall:</hi> the firſt is infuſed, the other acquiſite: the firſt are the vertuous habits of the minde, the other good workes, flowing and proceeding from theſe habits. The firſt S. <hi>Paul</hi> cals <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the fruit of the ſpirit,<note place="margin">Gal. 5. 22.</note> 
+               <hi>Gal.</hi> 5. as loue, ioy, faith, long-ſuffering, and the like: the ſecond he cals <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the fruit of righ<g ref="char:EOLhyphen"/>teouſneſſe, <hi>Phil.</hi> 1. 11. ſo that hee who is righteous,<note place="margin">Phil. 1. 11.</note> muſt bring forth the fruit of his righteouſneſſe; who is iuſt, the fruit of his iuſtice; liberall, the fruit of his liberalitie, leſt hee be hewen downe and caſt into the fire.</p>
+            <p>Neyther muſt wee onely bring forth fruit, but eue<g ref="char:EOLhyphen"/>ry man muſt bring forth <hi>his fruit:</hi> he that is planted as a Cedar in the Paradiſe of this world, muſt bring forth the fruit of Cedars; an Oliue, the fruit of Oliues, euery tree his owne fruit: and not onely ſo, but wee muſt not curiouſly entermeddle with the fruit and af<g ref="char:EOLhyphen"/>faires of other men: <hi>ſpartam ſuam quam nactus eſt, vnuſquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ornet,</hi> euery man muſt ſtriue and endea<g ref="char:EOLhyphen"/>uour in the ground of his owne vocation wherein God hath planted him to bring forth his fruit, that is, ſuch fruit as is proper and peculiar to his vocation, and not to the vocation of others; leaſt ſeeking to be what others are, thou looſe thy ſelfe; in ſeeking to be euery body, thou proue to be no body; in ſeeking to excell in all things, thou proue a foole in euery thing. <hi>Vzza</hi> muſt not touch the Arke, nor meddle with the Prieſts office: <hi>ne ſutor vltracrepidam,</hi> let not the Shooe-maker goe beyond his Laſt, the Pedler be<g ref="char:EOLhyphen"/>yond his packe, the Painter beyond his penſell, but
+<pb n="22" facs="tcp:15805:14"/> let euery man keepe himſelfe within the ſphaere of his owne profeſſion.</p>
+            <p>It is reported, as a pleaſant Fable, by <hi>Leo Africanus,</hi> of a little bird, which is of ſo ſtrange a condition, that ſhee can liue very well both in the water, and in the ayre, and ſometimes liues in the one, ſometimes in the other: of this bird when the king of birds de<g ref="char:EOLhyphen"/>mandeth tribute, ſhe flyeth preſently into the water, ſaying ſhee is a fiſh, and no bird: afterward when the king of fiſhes demandeth tribute of her, ſhe flyeth into the ayre, ſaying ſhee is a bird and no fiſh: euen ſo theſe <hi>diſſecta animalia,</hi> theſe particoloured trees; <hi>ſe<g ref="char:EOLhyphen"/>miviri<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> boues, ſemiboueſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> viri,</hi> theſe branches which bring forth now Almonds, now Acornes; now Figs, now Thiſtles; now the fruit of this man, now the fruit of that mans vocation, indeed bring forth none, much leſſe mature fruit, and <hi>in due ſeaſon.</hi>
+            </p>
+            <p>
+               <hi>A good word</hi> (ſaith <hi>Salomon) ſpoken in his due place,</hi> and I adde alſo a good work, or any good fruit brought forth in due ſeaſon, <hi>is like apples of gold with pictures of ſiluer, Prou.</hi> 25. 11. There is one fruit of our youth,<note place="margin">Prou. 25. 11.</note> another of our middle age, and a third of our old age: as there is one flower and beautie of the Spring, an<g ref="char:EOLhyphen"/>other of the Summer, and a third of the Autumne, and theſe all are to be brought forth at their diuers ſeaſons.</p>
+            <p>The fruit which we ſhould bring forth before wee come to olde age, is the fruit of a good life; the fruit which wee muſt bring forth in the ſeaſon of our old age, is the fruit of a good death: according to that of <hi>Seneca, ante ſenectutem ſtudebam vt benè
+<pb n="23" facs="tcp:15805:14"/> viuerem, in ſenectute vt benè moriar.</hi> There is no ſea<g ref="char:EOLhyphen"/>ſon of our age vnfit to bring forth ſome fruit of righ<g ref="char:EOLhyphen"/>teouſneſſe; but the ſeaſon of the time wherein wee ought moſt to ſtretch the ſinewes of our induſtrie to bring forth theſe fruits, are eſpecially in the ſeaſon when wee are tempted to doe euill, or in the ſeaſon when occaſion is offered to doe good.</p>
+            <p>The fruits of a Chriſtian, they are ripe at all times, his harueſt to gather them is at all times of the yeere. When hee is tempted to Luſt, then is his harueſt of Chaſtitie: to Gluttonie, then of Abſtinence: to Anger and reuenge, then is his har<g ref="char:EOLhyphen"/>ueſt of Mildneſſe and moderation. When thou ſeeſt thy brother impriſoned, then is thy ſeaſon to viſite him: naked, then to clothe him: hungry, then to feede him: wrongfully oppreſt, then to relieue him: in want and extremitie, then to ſuccout him. Thou muſt not concredit the diſpoſing of thy almes to the too-often-careleſſe performance of ſucceeding heyres, but thou muſt be thy owne Almoner, and ſo ſhalt thou be fure to haue thy Will kept, and to bring forth thy fruit in due ſeaſon.</p>
+            <p>Such as ſhall deferre all their good workes till the end of their dayes, and leaue their goods by others to be diſtributed, are like a man that carries a candle behinde him in the darke, which may benefit thoſe that follow after him, but not himſelfe. Such as all their life time by extortion and greedy op<g ref="char:EOLhyphen"/>preſſion wrong the poore, and vpon their death<g ref="char:EOLhyphen"/>beds bequeath ſome pettie Legacie to clad a few in Frize, and ſtop the mouthes of Orphanes with
+<pb n="24" facs="tcp:15805:15"/> loafes of bread, who otherwiſe would cry for ven<g ref="char:EOLhyphen"/>geance for their oppreſſion, from the GOD of Heauen, doe not bring forth their fruit in due ſea<g ref="char:EOLhyphen"/>ſon, nor are not like trees, but rather like that Lion which <hi>Sampſon</hi> killed, which although it was raue<g ref="char:EOLhyphen"/>nous in his life time and mankinde, yet being dead, had ſome little honey in his mouth.</p>
+            <p>Such as are called to be lights in the Church, and ſhine not in their profeſſion; ſuch as are cal<g ref="char:EOLhyphen"/>led to the ſacred function of the Miniſterie in the Spring of their youth, and ſtrength of yeeres, and bring forth no buds nor bloſſomes thereof, no not ſo much as in the Autumne of their age, doe theſe, or can they euer be hoped to bring forth their fruit in due ſeaſon?</p>
+            <p>I feare of this number there are too many here preſent, who as if they had receiued all their lear<g ref="char:EOLhyphen"/>ning <hi>ſub ſigillo confeſsionis,</hi> in ſecret confeſſion, dare not impart any of it, nor bring forth any fruits thereof themſelues, but get ſome of their neighbour trees to bring forth fruit for them, euen at that time, when this place ſhould expect theirs. And as the Beaſt Tarando, in <hi>Pliny,</hi> turnes himſelfe into the<note place="margin">Lib. 8. c. 34.</note> faſhion of other beaſts, becauſe his owne ſhape is ſo like the ſhape of an Aſſe, ſo theſe performe all duties and exerciſes of their vocation in their place, and elſe<g ref="char:EOLhyphen"/>where, in the perſons of others, becauſe (I thinke) their owne are ſo rude and deformed.</p>
+            <p>Your parts it is (Reuerend and Learned Fathers) whom iuſt deſert hath worthily aduanced to emi<g ref="char:EOLhyphen"/>nencie of place in this our Athens, to prune and lop
+<pb n="27" facs="tcp:15805:15"/> off theſe vnfruitfull branches, which bring forth no fruit in their owne boughes, but draw iuyce and ſap from other fruitfull branches, and not to conferre your choyſeſt fauors vpon ſuch as are by profeſſion <hi>non-proficients,</hi> whoſe end and ſcope is the carrying of a bagge and a bunch of keyes, leaſt in ſhort time, thoſe places which by the beneficency of worthy foun<g ref="char:EOLhyphen"/>ders, were erected to be Nurſeries of hopefull wits, turne to be Golgothaes, places of dead mens bones, and liuing emptie ſculs, or at the beſt, but old ſhrines, and ſmokie Images, for nothing venerable, but ſe<g ref="char:EOLhyphen"/>nioritie. Howbeit I ſtand not here to patronize thoſe Lapwings which flye away from hence with part of the ſhell vpon their heads, and thruſt themſelues be<g ref="char:EOLhyphen"/>fore their due time into the Lords harueſt, expecting (I thinke) ſome Apoſtolike Enthuſiaſme to be inſpi<g ref="char:EOLhyphen"/>red <hi>in illâ horâ:</hi> their haſte is greater then their ſpeed, <hi>Nimis properè, &amp; minus proſperè,</hi> as ſaith <hi>Bernard.</hi>
+               <note place="margin">Ser. de S. Bene.</note> Such are Conduits, that conuey water to others, be<g ref="char:EOLhyphen"/>fore they can containe any for themſelues: <hi>qui loqui neſciant</hi> (ſaith <hi>Hierome) tacere non poſſunt:</hi> ſuch turne rauening Wolues as ſoone as they get the Lambes<g ref="char:EOLhyphen"/>skinne<note place="margin">D<hi rend="sup">r</hi>. <hi>Boys.</hi>
+               </note> ouer their ſhoulders. Theſe men like the Gi<g ref="char:EOLhyphen"/>beonites, take their bread hot the day they depar<g ref="char:EOLhyphen"/>ted to come, and therefore it is ſo ſoone dryed vp and mouldy, and their bottles becauſe they are new are rent. <hi>Ioſh.</hi> 9. 13.<note place="margin">Ioſh. 9. 13.</note>
+            </p>
+            <p>Such men ſhould haue made a longer reſidence in this garden of pleaſure, this ſeate of happineſſe, from whence flowes that of <hi>Pindarus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Riuers of Helicon, and waters of Parnaſſus. I know
+<pb n="26" facs="tcp:15805:16"/> how fitly I might reſemble this whole Vniuerſitie to a tree: <hi>Theologie</hi> to the roote of the tree, <hi>Law</hi> to the iuyce and radicall moyſture, which maintaines the life and vnion of the body together: <hi>Phyſicke</hi> to thoſe leafes which heale the nations of the earth: the <hi>Libe<g ref="char:EOLhyphen"/>rall Sciences</hi> to the branches of this tree: the <hi>Garlands of degrees</hi> to the bloſſomes and fruits of the tree. For as <hi>Theophrastus</hi> reports of a tree in Perſia, which at the ſame time doth bud, bloſſome, and beare fruit, ſo may we truely auerre of this tree, that now at this one ſeaſon it bringeth forth ſome Doctors, ſome Maſters, ſome fruit that is fully ripe, ſome drawing to ripeneſſe, ſome in the flowre, and ſome in the bud. I now mer<g ref="char:EOLhyphen"/>uaile not that the Poets fained the Muſes to dwell in woods, and amongſt trees: here groweth the <hi>Iuniper</hi> tree, which might teach euery man to haue a ſweet conuerſation with all men: here groweth the Palme tree, which teacheth vs a conqueſt of our ſelues: here the Laurell, which crowneth vs with the peace of a good Conſcience. Amidſt theſe Arbors, and in the barkes of theſe trees, let vs (as the ancient Shepheards were wont to doe) engraue our names with the Sonets of loue, and imprint the characters of our deareſt affe<g ref="char:EOLhyphen"/>ctions; and with earneſt deuotion deſire the heauenly <hi>Apollo</hi> to water this tree with the dewe of his grace, diſtilled into the rootes thereof, that it may ſpread it ſelfe forth into branches, and the branches may bud, and the buds may bloſſome, and the bloſſomes may bring forth fruit; ſuch fruit as ſhall neuer be cor<g ref="char:EOLhyphen"/>rupted, ſuch flowers as ſhall neuer be withered, ſuch buds as ſhall neuer be blaſted, ſuch branches as ſhall
+<pb n="27" facs="tcp:15805:16"/> neuer be diſmembred, but flouriſh and ſpread abroad their armes to defend the Church from all Haereſie, Schiſme, and peruerſe doctrines, to the aduance<g ref="char:EOLhyphen"/>ment of true Religion, and the glory of thy great Name, through Chriſt our Lord: To whom with the Father, and the holy Ghoſt, be aſcribed all glory, honour and praiſe, both now and for euermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
